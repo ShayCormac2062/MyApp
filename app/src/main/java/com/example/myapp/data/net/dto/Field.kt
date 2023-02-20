@@ -1,0 +1,14 @@
+package com.example.myapp.data.net.dto
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class Field(
+    val flags: Flags?,
+    val group: Int?,
+    val image: String?,
+    val name: String?,
+    val show: Int?,
+    val type: String?,
+    val value: String?
+)

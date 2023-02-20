@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="loading">Загрузка…</string>
+    <string name="try_again">Обновить</string>
+    <string name="empty_list">Nothing found for your request</string>
+    <string name="header_main_word">Список</string>
+</resources>
